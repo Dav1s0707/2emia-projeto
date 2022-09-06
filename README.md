@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/dav1s0707/2emia-projeto)
 # Titulo
-Descrição do pojeto
+Descrição do projeto
 
 ## Autores
 - Aluno1
