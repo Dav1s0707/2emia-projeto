@@ -1,1 +1,10 @@
-# 2emia-projeto
+![GitHub](https://img.shields.io/github/license/dav1s0707/2emia-projeto)
+# Titulo
+Descrição do pojeto
+
+## Autores
+- Aluno1
+- Aluno2
+- Aluno3
+- Aluno4
+- Aluno5
