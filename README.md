@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/dav1s0707/2emia-projeto?style=flat-square)
-# Titulo
-Descrição do projeto
+# Diabetes 3 (nome provisorio)
+Nossa ideia é de criar um site para fazer os calculos e acompanhamento da glicemia de diabeticos
 
 ## Autores
 - `Gabriel Althoff rm15194`
