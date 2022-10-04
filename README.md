@@ -8,3 +8,6 @@ Nossa ideia é de criar um site para fazer os calculos e acompanhamento da glice
 - Willian Fang rm13675
 - João Gomes rm15267
 - Oliver Kanai rm14078
+
+## Captura de tela
+![alt-descrião]()
