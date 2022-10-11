@@ -7,7 +7,7 @@
     </a>
 </p>
  <img 
-            src="[https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Finvxz.github.io%2Fagr-vai%2F](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fdav1s0707.github.io%2F2emia-projeto%2Findex.html)"
+            src="(https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fdav1s0707.github.io%2F2emia-projeto%2Findex.html)"
             alt="HTML válido!" />
 
 
