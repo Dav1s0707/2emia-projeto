@@ -15,3 +15,4 @@ Nossa ideia é criar um site para ajudar as pessoa diabeticas a fazer seus calcu
 - Davi Queiroz - rm 15186
 - Willian Feng - rm13675
 - Oliver Kanai - rm14078
+- Joao Gabriel - rm15267
