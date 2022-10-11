@@ -6,6 +6,10 @@
             alt="CSS válido!" />
     </a>
 </p>
+ <img 
+            src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Finvxz.github.io%2Fagr-vai%2F"
+            alt="HTML válido!" />
+
 
 
 # Diat
