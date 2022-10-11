@@ -6,6 +6,7 @@
             alt="CSS válido!" />
     </a>
 </p>
+https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Finvxz.github.io%2Fagr-vai%2F
 
 # Diat
 Nossa ideia é criar um site para ajudar as pessoa diabeticas a fazer seus calculos de insulina
