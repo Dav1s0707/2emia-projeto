@@ -8,6 +8,8 @@ Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias
 
 ![plot](images/tela-print.png)
 
+![plot](images/tela-print-login.png)
+
 ## Membros
 - `Gabriel Althoff -  rm15194`
 - Davi Queiroz - rm 15186
