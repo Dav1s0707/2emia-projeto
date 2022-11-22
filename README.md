@@ -3,7 +3,7 @@
 
 
 
-***<h1 style="text-align:center">Diat</h1>***
+<h3 style="text-align: center;">H3 that is center aligned</h3>
 Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias, Contagem de Carboidratos, Calculo de dose e Diário de glicemia
 
 ## Nosso site
