@@ -2,6 +2,7 @@
 
 # Diat
 ![plot](images/logo.png)
+
 Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias, Contagem de Carboidratos, Calculo de dose e Diário de glicemia 
 
 
