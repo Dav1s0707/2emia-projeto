@@ -12,9 +12,9 @@ Criamos um site para ajudar as pessoa diabéticas, trazendo noticias, Contagem d
 
 ![plot](images/tela-print-login.png)
 
-![plot](images/forms-admin.png)
+![plot](images/forms-admin.PNG)
 
-![plot](images/noticias.png)
+![plot](images/noticias.PNG)
 
 ## Membros
 - `Gabriel Althoff -  rm15194`
