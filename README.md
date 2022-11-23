@@ -3,7 +3,7 @@
 <h1 align="center">Diats </h1>
 
 
-Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias, Contagem de Carboidratos, Calculo de dose e Diário de glicemia 
+Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias, Contagem de Carboidratos, Calculo de dose e Diário de glicemia. Adicionamos também um quadro de notícias para atualizar os usuários do site sobre a diabetes no mundo.
 
 
 ## Nosso site
